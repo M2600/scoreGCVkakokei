@@ -4,4 +4,4 @@ Startボタンを押して、解析したい画像を選択してください。
 テキストボックス編集可能にした。"。"以外の改行消した。
 過去形に変換するか選択できるようにした。
 
-製作 みやしょー Twitter: https://twitter.com/C8N5gIiZFbggtxU
+製作: https://twitter.com/C8N5gIiZFbggtxU
